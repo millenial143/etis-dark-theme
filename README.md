@@ -2,4 +2,6 @@
 # ETIS dark theme
 Темная тема сайта ПГНИУ ЕТИС для Google chrome!
 
+![image](https://user-images.githubusercontent.com/60402289/116701896-df0f7500-a9e1-11eb-93c1-045e583e99a8.png)
+![image](https://user-images.githubusercontent.com/60402289/116701943-ec2c6400-a9e1-11eb-97d7-eaace9bb3df4.png)
 
