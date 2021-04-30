@@ -1,2 +1,4 @@
-# etis-dark-theme
-Темная тема для сайта ПГНИУ ЕТИС
+# ETIS dark theme
+Темная тема сайта ПГНИУ ЕТИС для Google chrome!
+
+
