@@ -1,0 +1,221 @@
+body{
+	background-color: #222226 !important;
+}
+
+.span9{
+	color: #979797 !important;
+}
+
+.container{
+	width: 980px !important;
+}
+
+font{
+	color: #e6e6e6 !important;
+}
+
+font[color='red']{
+	color: #dd9696 !important;
+}
+
+font[color='green']{
+	color: #b7d490 !important;
+}
+
+font[color='blue']{
+	color: #b7d490 !important;
+}
+
+font[color='gray']{
+	color: #979797 !important;
+}
+
+center tr{
+	color: #c8c8c8 !important;
+}
+
+a{
+	color: #c8c8c8 !important;
+}
+
+h3{
+	color: #e6e6e6 !important;
+}
+
+.aud{
+	color: #979797 !important;
+}
+
+.dis{
+	color: #b4b4b4 !important;
+	font-size: 13.4px !important;
+	margin-bottom: 15px !important;
+}
+
+.eval{
+	color: #979797 !important;
+}
+
+.pair_num{
+	color: #979797 !important;
+}
+
+.no_pairs{
+	color: #979797 !important;
+}
+
+.week-select span{
+	color: #979797 !important;
+}
+
+.week-select span .week{
+	color: #e6e6e6 !important;
+}
+
+.timetable .day td{
+	padding-top: 5px !important;
+	min-height: 35px !important;
+	border-bottom: 1px solid #505050 !important;
+	border-top: 1px solid #505050 !important;
+}
+
+.timetable .day .pair_num{
+	border-left: 1px solid #505050 !important;
+}
+
+.timetable .day .pair_jour{
+	border-right: 1px solid #505050 !important;
+}
+
+.week{
+	background-color: #222226 !important;
+	border: 1px solid #505050 !important;
+}
+
+.nav-tabs{
+	border: none !important;
+}
+
+.nav-tabs a{
+	color: #979797 !important;
+	border: none !important;
+	border-radius: 5px !important;
+	margin-bottom: 5px !important;
+	background-color: #222226;
+	padding: 6.5px !important;
+}
+
+.nav-tabs .active a{
+	background-color: #333336 !important;
+}
+
+.nav-stacked li a{
+	background-color: #222226 !important;
+}
+
+.nav-stacked li a:hover {
+	background-color: #333336 !important;
+}
+
+
+.nav-tabs .need_redirect{
+	background-color: #222226 !important;
+}
+
+
+.nav-tabs .need_redirect:hover {
+	background-color: #333336 !important;
+}
+
+.common th{
+	background-color: #222226 !important;
+	color: #e6e6e6 !important;
+	border: 1px solid #828282 !important;
+}
+
+.common td{
+	background-color: #222226 !important;
+	color: #979797 !important;
+	border: 1px solid #505050 !important;
+}
+
+.submenu-item{
+	color: #e6e6e6 !important;
+}
+
+.teacher_name{
+	color: #e6e6e6 !important;
+}
+
+.slimtab_nice tr{
+	background-color: #222226 !important;
+	border: 1px solid #505050 !important;
+}
+
+.slimtab_nice th{
+	background-color: #222226 !important;
+	border: 1px solid #828282 !important;
+}
+
+.msg{
+	border: 1px solid #505050 !important;
+}
+
+.msg .answ{
+	background-color: #333336 !important;
+}
+
+.answ{
+	height: 400px !important;
+}
+
+.answ li{
+	height: 400px !important;
+}
+
+.answ a{
+	height: 374px !important;
+}
+
+label{
+	color: #979797 !important;
+}
+
+span .holiday{
+	background-color: #222226 !important;
+	color: #b7d490 !important;
+}
+
+.need_redirect{
+	background-color: none;
+}
+
+
+.navbar-static-top{
+	height: 55px !important;
+}
+
+.navbar-static-top .navbar-inner{
+	background-color: #333336 !important;
+	height: 55px !important;
+}
+
+/*.container{
+	height: 55px !important;
+	display: flex !important;
+	flex-wrap: wrap !important;
+	justify-content: flex-start !important;
+	padding: 0px !important;
+	margin-bottom: 5px !important;
+}*/
+
+.brand{
+	font-size: 17px !important;
+	font-weight: 400 !important;
+	color: #e6e6e6 !important;
+}
+
+
+
+
+
