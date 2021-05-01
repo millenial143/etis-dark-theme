@@ -7,7 +7,7 @@
 
 # Установка
 * Скачайте все файлы репозитория
-* Перейдите в [расширения](chrome://extensions/)
+* Перейдите в chrome://extensions/
 * Включите режим разработчика 
 
 ![1](https://user-images.githubusercontent.com/60402289/116774871-f64d7180-aa78-11eb-8cf7-be8c51b4cda0.png)
